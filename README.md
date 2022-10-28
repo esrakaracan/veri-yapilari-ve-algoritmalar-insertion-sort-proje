@@ -8,9 +8,13 @@ https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proj
 [22,27,16,2,18,6] 		-> n
 
 [22,27,16,2,18,6] 		-> n-1
+
 [16,22,27,2,18,6] 		-> n-2
+
 [2,16,22,27,18,6] 		-> n-3
+
 [2,16,18,22,27,6] 		-> n-4
+
 [2,6,16,18,22,27] 		-> 1
 
 #### 2.	Big-O gösterimini yazınız.
@@ -27,6 +31,9 @@ Aradığımız sayının ortada olması nedeniyle; Average Case. (3.maddeye refe
 
 ### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 [7,3,5,8,2,9,4,15,6]		-> n
+
 [3,7,5,8,2,9,4,15,6]		-> n-1
+
 [3,5,7,8,2,9,4,15,6]		-> n-2
+
 [3,5,7,8,2,9,4,15,6]		-> n-3
