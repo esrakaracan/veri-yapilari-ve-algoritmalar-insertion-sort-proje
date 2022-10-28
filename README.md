@@ -6,6 +6,7 @@ https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proj
 ### [22,27,16,2,18,6] -> Insertion Sort
 #### 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 [22,27,16,2,18,6] 		-> n
+
 [22,27,16,2,18,6] 		-> n-1
 [16,22,27,2,18,6] 		-> n-2
 [2,16,22,27,18,6] 		-> n-3
