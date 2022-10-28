@@ -21,9 +21,9 @@ https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proj
 O(n^2)
 
 #### 3.	Time Complexity: 
-Average case: Aradığımız sayının ortada olması.
-Worst case: Aradığımız sayının sonda olması.
-Best case: Aradığımız sayının dizinin en başında olması.
+Average case: Aradığımız sayının ortada olması. 
+Worst case: Aradığımız sayının sonda olması. 
+Best case: Aradığımız sayının dizinin en başında olması. 
 
 #### 4.	Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Aradığımız sayının ortada olması nedeniyle; Average Case. (3.maddeye referansla)
